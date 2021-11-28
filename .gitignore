@@ -1,0 +1,12 @@
+# Build and Object Folders
+bin/
+obj/
+
+#Nuget packages directory
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
